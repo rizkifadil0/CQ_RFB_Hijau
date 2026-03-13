@@ -106,7 +106,7 @@ namespace PraktikumADO
 
                 int hasil = cmd.ExecuteNonQuery();
 
-
+                MessageBox.Show("Jumlah baris terpengaruh : " + hasil);
 
 
 
