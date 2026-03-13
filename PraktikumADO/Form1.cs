@@ -108,7 +108,7 @@ namespace PraktikumADO
 
                 MessageBox.Show("Jumlah baris terpengaruh : " + hasil);
 
-
+                conn.Close();
 
             }
             catch (Exception ex)
