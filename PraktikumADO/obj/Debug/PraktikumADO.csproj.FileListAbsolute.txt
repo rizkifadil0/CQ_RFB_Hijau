@@ -1,0 +1,11 @@
+D:\Mata kuliah\SEMESTER 4\PABD\PraktikumADO\PraktikumADO\bin\Debug\PraktikumADO.exe.config
+D:\Mata kuliah\SEMESTER 4\PABD\PraktikumADO\PraktikumADO\bin\Debug\PraktikumADO.exe
+D:\Mata kuliah\SEMESTER 4\PABD\PraktikumADO\PraktikumADO\bin\Debug\PraktikumADO.pdb
+D:\Mata kuliah\SEMESTER 4\PABD\PraktikumADO\PraktikumADO\obj\Debug\PraktikumADO.csproj.AssemblyReference.cache
+D:\Mata kuliah\SEMESTER 4\PABD\PraktikumADO\PraktikumADO\obj\Debug\PraktikumADO.Form1.resources
+D:\Mata kuliah\SEMESTER 4\PABD\PraktikumADO\PraktikumADO\obj\Debug\PraktikumADO.Properties.Resources.resources
+D:\Mata kuliah\SEMESTER 4\PABD\PraktikumADO\PraktikumADO\obj\Debug\PraktikumADO.csproj.GenerateResource.cache
+D:\Mata kuliah\SEMESTER 4\PABD\PraktikumADO\PraktikumADO\obj\Debug\PraktikumADO.csproj.CoreCompileInputs.cache
+D:\Mata kuliah\SEMESTER 4\PABD\PraktikumADO\PraktikumADO\obj\Debug\PraktikumADO.exe
+D:\Mata kuliah\SEMESTER 4\PABD\PraktikumADO\PraktikumADO\obj\Debug\PraktikumADO.pdb
+D:\Mata kuliah\SEMESTER 4\PABD\PraktikumADO\PraktikumADO\obj\Debug\PraktikumADO.exe.config
